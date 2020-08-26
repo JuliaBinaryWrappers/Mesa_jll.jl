@@ -1,6 +1,6 @@
 name = "Mesa_jll"
 uuid = "78dcde23-ec64-5e07-a917-6fe22bbc0f45"
-version = "20.1.5+0"
+version = "20.1.5+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
